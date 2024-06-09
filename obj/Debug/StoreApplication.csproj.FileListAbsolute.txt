@@ -1,0 +1,68 @@
+C:\Users\Navid\Desktop\StoreApplication\StoreApplication\bin\Debug\StoreApplication.exe.config
+C:\Users\Navid\Desktop\StoreApplication\StoreApplication\bin\Debug\StoreApplication.exe
+C:\Users\Navid\Desktop\StoreApplication\StoreApplication\bin\Debug\StoreApplication.pdb
+C:\Users\Navid\Desktop\StoreApplication\StoreApplication\obj\Debug\StoreApplication.csprojAssemblyReference.cache
+C:\Users\Navid\Desktop\StoreApplication\StoreApplication\obj\Debug\StoreApplication.Properties.Resources.resources
+C:\Users\Navid\Desktop\StoreApplication\StoreApplication\obj\Debug\StoreApplication.csproj.GenerateResource.cache
+C:\Users\Navid\Desktop\StoreApplication\StoreApplication\obj\Debug\StoreApplication.csproj.CoreCompileInputs.cache
+C:\Users\Navid\Desktop\StoreApplication\StoreApplication\obj\Debug\StoreApplication.exe
+C:\Users\Navid\Desktop\StoreApplication\StoreApplication\obj\Debug\StoreApplication.pdb
+C:\Users\Navid\Desktop\StoreApplication\StoreApplication\bin\Debug\StoreDB.mdf
+C:\Users\Navid\Desktop\StoreApplication\StoreApplication\bin\Debug\StoreDB_log.ldf
+C:\Users\Navid\Desktop\StoreApplication\StoreApplication\bin\Debug\EntityFramework.dll
+C:\Users\Navid\Desktop\StoreApplication\StoreApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Navid\Desktop\StoreApplication\StoreApplication\bin\Debug\EntityFramework.xml
+C:\Users\Navid\Desktop\StoreApplication\StoreApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Navid\Desktop\StoreApplication\StoreApplication\obj\Debug\StoreApplication.frmMain.resources
+C:\Users\Navid\Desktop\StoreApplication\StoreApplication\obj\Debug\StoreApplication.csproj.CopyComplete
+C:\Users\hp\Desktop\shoparayesh\Project\StoreApplication\StoreApplication\bin\Debug\StoreApplication.exe.config
+C:\Users\hp\Desktop\shoparayesh\Project\StoreApplication\StoreApplication\obj\Debug\StoreApplication.exe
+C:\Users\hp\Desktop\shoparayesh\Project\StoreApplication\StoreApplication\obj\Debug\StoreApplication.pdb
+C:\Users\hp\Desktop\shoparayesh\Project\StoreApplication\StoreApplication\bin\Debug\StoreDB.mdf
+C:\Users\hp\Desktop\shoparayesh\Project\StoreApplication\StoreApplication\bin\Debug\StoreDB_log.ldf
+C:\Users\hp\Desktop\shoparayesh\Project\StoreApplication\StoreApplication\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\shoparayesh\Project\StoreApplication\StoreApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\shoparayesh\Project\StoreApplication\StoreApplication\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\shoparayesh\Project\StoreApplication\StoreApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\shoparayesh\Project\StoreApplication\StoreApplication\obj\Debug\StoreApplication.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\shoparayesh\Project\StoreApplication\StoreApplication\obj\Debug\StoreApplication.frmMain.resources
+C:\Users\hp\Desktop\shoparayesh\Project\StoreApplication\StoreApplication\obj\Debug\StoreApplication.Properties.Resources.resources
+C:\Users\hp\Desktop\shoparayesh\Project\StoreApplication\StoreApplication\obj\Debug\StoreApplication.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\shoparayesh\Project\StoreApplication\StoreApplication\bin\Debug\StoreApplication.exe
+C:\Users\hp\Desktop\shoparayesh\Project\StoreApplication\StoreApplication\bin\Debug\StoreApplication.pdb
+C:\Users\hp\Desktop\shoparayesh\Project\StoreApplication\StoreApplication\obj\Debug\StoreApplication.Form1.resources
+C:\Users\hp\Desktop\shoparayesh\Project\StoreApplication\StoreApplication\obj\Debug\StoreApplication.about.resources
+C:\Users\hp\Desktop\shoparayesh\Project\StoreApplication\StoreApplication\obj\Debug\StoreApplication.gallery.resources
+C:\Users\hp\Desktop\New folder (5)\StoreApplication\bin\Debug\StoreApplication.exe.config
+C:\Users\hp\Desktop\New folder (5)\StoreApplication\obj\Debug\StoreApplication.exe
+C:\Users\hp\Desktop\New folder (5)\StoreApplication\obj\Debug\StoreApplication.pdb
+C:\Users\hp\Desktop\New folder (5)\StoreApplication\obj\Debug\StoreApplication.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\New folder (5)\StoreApplication\obj\Debug\StoreApplication.about.resources
+C:\Users\hp\Desktop\New folder (5)\StoreApplication\obj\Debug\StoreApplication.Form1.resources
+C:\Users\hp\Desktop\New folder (5)\StoreApplication\obj\Debug\StoreApplication.frmMain.resources
+C:\Users\hp\Desktop\New folder (5)\StoreApplication\obj\Debug\StoreApplication.Properties.Resources.resources
+C:\Users\hp\Desktop\New folder (5)\StoreApplication\obj\Debug\StoreApplication.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\New folder (5)\StoreApplication\bin\Debug\StoreDB.mdf
+C:\Users\hp\Desktop\New folder (5)\StoreApplication\bin\Debug\StoreDB_log.ldf
+C:\Users\hp\Desktop\New folder (5)\StoreApplication\bin\Debug\StoreApplication.exe
+C:\Users\hp\Desktop\New folder (5)\StoreApplication\bin\Debug\StoreApplication.pdb
+C:\Users\hp\Desktop\New folder (5)\StoreApplication\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\New folder (5)\StoreApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\minas file\StoreApplication\bin\Debug\StoreDB.mdf
+C:\minas file\StoreApplication\bin\Debug\StoreDB_log.ldf
+C:\minas file\StoreApplication\bin\Debug\StoreApplication.exe.config
+C:\minas file\StoreApplication\bin\Debug\StoreApplication.exe
+C:\minas file\StoreApplication\bin\Debug\StoreApplication.pdb
+C:\minas file\StoreApplication\bin\Debug\EntityFramework.xml
+C:\minas file\StoreApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\minas file\StoreApplication\obj\Debug\StoreApplication.csproj.AssemblyReference.cache
+C:\minas file\StoreApplication\obj\Debug\StoreApplication.csproj.SuggestedBindingRedirects.cache
+C:\minas file\StoreApplication\obj\Debug\StoreApplication.about.resources
+C:\minas file\StoreApplication\obj\Debug\StoreApplication.Form1.resources
+C:\minas file\StoreApplication\obj\Debug\StoreApplication.frmMain.resources
+C:\minas file\StoreApplication\obj\Debug\StoreApplication.Properties.Resources.resources
+C:\minas file\StoreApplication\obj\Debug\StoreApplication.csproj.GenerateResource.cache
+C:\minas file\StoreApplication\obj\Debug\StoreApplication.csproj.CoreCompileInputs.cache
+C:\minas file\StoreApplication\obj\Debug\StoreApplication.csproj.CopyComplete
+C:\minas file\StoreApplication\obj\Debug\StoreApplication.exe
+C:\minas file\StoreApplication\obj\Debug\StoreApplication.pdb
